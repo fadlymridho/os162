@@ -1,0 +1,4 @@
+#Week01 Task told us how to make file in internal server 
+#then push (transfer) it to github account vice versa using pull (download).
+
+#There is tutorial how to delete file that exist in the directory.
