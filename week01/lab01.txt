@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 fadly.muhammad62 StafCS 4096 Sep 10 00:42 .
+drwx--x--x  3 fadly.muhammad62 StafCS 4096 Sep 10 00:39 ..
+drwxr-xr-x  8 fadly.muhammad62 StafCS 4096 Sep 10 00:40 .git
+-rw-r--r--  1 fadly.muhammad62 StafCS    0 Sep 10 00:43 lab01.txt
+-rw-r--r--  1 fadly.muhammad62 StafCS    7 Sep 10 00:02 README.md
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:28 SandBox
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:39 week00
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:17 week01
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:17 week02
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:17 week03
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:18 week04
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:18 week05
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:18 week06
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:18 week07
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week08
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week09
+drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week10
+/home/fasilkom/mahasiswa/f/fadly.muhammad62/os162/week01
