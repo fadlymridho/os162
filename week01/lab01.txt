@@ -17,3 +17,4 @@ drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week08
 drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week09
 drwxr-xr-x  2 fadly.muhammad62 StafCS 4096 Sep 10 00:19 week10
 /home/fasilkom/mahasiswa/f/fadly.muhammad62/os162/week01
+Today is 10 Sep 2016 at 01:13:54
